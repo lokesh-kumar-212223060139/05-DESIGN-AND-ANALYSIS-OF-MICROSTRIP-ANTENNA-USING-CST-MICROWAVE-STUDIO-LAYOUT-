@@ -4,6 +4,10 @@
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
+![WhatsApp Image 2025-11-11 at 15 37 33_e586e77b](https://github.com/user-attachments/assets/c6461477-5d2d-44b7-b74b-030d7c6d2043)
+
+![WhatsApp Image 2025-11-11 at 15 37 50_a086d552](https://github.com/user-attachments/assets/8f247ad7-6101-4501-b954-ff03dd112da5)
+
 
 **Mathematical Calculation**
 
@@ -39,6 +43,8 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 
 
 **Conclusion:**
+
+The quarter wave transformer was succesfully designed using CST Microwave studio to match mico strip line with a 123 ohm load.
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm..
 
